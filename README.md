@@ -37,7 +37,6 @@ Ce graphique montre la différence entre chaque groupe de mots afin de classer e
 
 #### Méthode Reinhert
 
-
-##### dendrogramme
-
+![resume](https://github.com/Portalc/portal_cecile_MathiasSandorf/blob/master/image/dendrogramme_1.png)
+![resume](https://github.com/Portalc/portal_cecile_MathiasSandorf/blob/master/image/AFC2DL.png)
 

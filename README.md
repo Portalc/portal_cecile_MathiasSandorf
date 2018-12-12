@@ -10,7 +10,7 @@ Voici quelques graphique réalisés avec Iramuteq.
 #### Statistiques
 Avec Iramuteq j'ai commencé par créer un graphique Statistique permettant avec les tableaux CSV du dossier de determiner la fréquence d'apparition des termes et leurs type (adjectif, verbe etc.).
 
-! [resume](https://github.com/Portalc/portal_cecile_MathiasSandorf/blob/master/image/resume.png)
+![resume](https://github.com/Portalc/portal_cecile_MathiasSandorf/blob/master/image/resume.png)
 
 Résumé
 Nombre de textes : 35
@@ -23,7 +23,7 @@ resume
 #### Nuages de mots
 Il est possible de réaliser un nuage de mot comme celui-là mais sans les termes étranges (comme le "ã") en mettant les "termes non reconnus" comme supplémentaire dans les propriété du graphique.
 
-! [resume](https://github.com/Portalc/portal_cecile_MathiasSandorf/blob/master/image/nuagedemot_part1chap_part2chap1.png)
+![resume](https://github.com/Portalc/portal_cecile_MathiasSandorf/blob/master/image/nuagedemot_part1chap_part2chap1.png)
 
 #### Analyses de similitudes
 Ici la le graphique de fruchterman reingold représente la distance des liens entre les mots et leurs force dans le chapitre 1 de la première partie et le chapitre 1 de la seconde partie.
